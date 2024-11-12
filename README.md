@@ -79,4 +79,4 @@ ON:
 <img src="https://github.com/user-attachments/assets/4a891a85-daa7-4c6a-a279-24755c86f097" width="600" height="500" />
 
 ## RESULT
-The project successfully achieved its objective of creating a simple yet effective LED control system using an Arduino and a push button.
+The project Designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
