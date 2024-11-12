@@ -1,6 +1,6 @@
 ### NAME     : SUPRIYA PRABHU
 ### REG.NO   : 24001111
-# EXPERIMENT : LED CONTROL USING ARDUINO       
+# EXPERIMENT 1 LED CONTROL USING ARDUINO       
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
